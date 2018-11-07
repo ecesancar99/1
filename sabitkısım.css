@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+
+	<head>
+		<title> That '70's show </title>
+		<link rel="stylesheet" href="styles.css">
+		<meta charset="UTF-8">
+	</head>
+
+	<body>
+		
+		<br>
+		<div class="navbar">
+		<ul style="background-color:DimGray;">
+		<li> <a href="index.html"> Home </a></li>
+		<li> <a href="characters.html"> Characters</a></li>
+		<li> <a href="cast.html"> Cast</a></li>
+		<li> <a href="episodes.html">Episodes</a></li>
+		<li> <a href="funfacts.html">Fun Facts</a></li>
+		</ul>
+		</div>

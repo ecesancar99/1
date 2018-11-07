@@ -1,0 +1,64 @@
+body {
+	background-color: #FF8D00;
+	}
+	
+	
+.navbar ul {
+	list-style-type:none;
+	overflow:hidden;
+	background-color:DimGray;
+	margin : 0;
+	padding : 10px 20px;
+	}
+	
+.navbar a:link {
+	background-color: DimGray;
+	color: DarkOrange;
+	border: 2px solid MidnightBlue;
+	padding: 10px 20px;
+	text-align: center;
+	display: inline block;
+	}
+	
+.navbar a:visited {
+	background-color: DimGray;
+	color: DarkOrange;
+	border: 2px solid MidnightBlue;
+	padding: 10px 20px;
+	text-align: center;
+	display: inline block;
+	}
+	
+.navbar a:hover  {
+	background-color: Silver;
+	color: DarkOrange;
+	}
+	
+.navbar a:active {
+	background-color: Silver;
+	color: DarkOrange;
+	}
+
+.navbar li {
+	float:left;
+	}
+
+h1 {
+	font-size: 30px;
+	text-align: center;
+	color: MidnightBlue;
+	}
+	
+.characters dd {
+	font-family: cursive;
+	}
+
+.characters dt {
+	color:#2B6F27;
+	font-family: cursive;
+	text-align:center;
+	}
+	
+	
+
+	
